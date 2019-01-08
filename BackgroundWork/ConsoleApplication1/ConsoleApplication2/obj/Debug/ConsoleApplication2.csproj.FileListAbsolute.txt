@@ -1,0 +1,10 @@
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.dll
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.xml
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\webSite\45MVC\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

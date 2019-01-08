@@ -1,0 +1,29 @@
+﻿@model WebApplication1.ViewModels.EmployeeListViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditorEmployee</title>
+</head>
+<body>
+    <div>
+
+@foreach (var item in Model.EmployeeViewList)
+{
+    <form action="/employee/saveEditor" method="post">
+        姓名：@item.EmployeeName<input type="text" name="Name">
+        工资：@item.EmployeeSalary<input type="text" name="Salary">
+        <input type="submit" value="保存"><input type="reset" value="取消">
+    </form>
+
+}
+      
+    </div>
+</body>
+</html>
